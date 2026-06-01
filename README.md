@@ -18,7 +18,7 @@
 
 ---
 
-<img align="right" width="340" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" alt="coding gif"/>
+<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="coding gif"/>
 
 ### 👋 Hey, I'm Likhith
 
@@ -94,8 +94,8 @@
 
 ## 🚀 Featured Project
 
-### Agentic Vehicle Damage Intelligence
-*Enterprise-grade autonomous insurance claims pipeline — built solo*
+### [🚗 Agentic Vehicle Damage Intelligence](https://github.com/likhith562/SmartForge-Agentic-Vehicle-Damage-Intelligence-Platform)
+*Enterprise-grade autonomous insurance claims pipeline*
 
 ```
 Stack: LangGraph · YOLOv8 · SAM · MiDaS · Gemini VLM · FastAPI · MongoDB · NetworkX · Gradio
@@ -108,6 +108,17 @@ Stack: LangGraph · YOLOv8 · SAM · MiDaS · Gemini VLM · FastAPI · MongoDB �
 | 🛡️ **Anti-Fraud** | 5-layer gate — EXIF GPS, Temporal, ELA, pHash; NetworkX Map-Reduce deduplication |
 | 📦 **Full Stack** | Dual Gradio portals (Claimant / Auditor), MongoDB + SQLite state, Groq-powered reports |
 
+---
+
+### [🤖 SmartSDLC — AI-Enhanced Software Development Lifecycle](https://github.com/sasankreddy19/Smart-SDLC)
+*InnovateX IBM Hackathon 2025 — 2nd Runner-Up · 50+ teams*
+
+Built an AI-driven platform automating SDLC phases — bug prediction, code review, documentation, and optimization using IBM Granite. Integrated code quality analysis and automated reporting, improving agile delivery efficiency by ~30%.
+
+```Stack: IBM Granite · Python · AI Automation```
+```
+
+So the full Featured Project section ends up looking like:
 ---
 
 ## 🏅 Achievements
