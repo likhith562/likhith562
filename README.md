@@ -146,12 +146,11 @@ Built an AI-driven platform automating SDLC phases — bug prediction, code revi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=likhith562&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&count_private=true&include_all_commits=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=likhith562&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&count_private=true" height="165"/>
 <img src="https://streak-stats.demolab.com?user=likhith562&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" height="165"/>
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhith562&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" height="155"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhith562&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="155"/>
 </div>
 
 ---
@@ -159,7 +158,7 @@ Built an AI-driven platform automating SDLC phases — bug prediction, code revi
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=likhith562&theme=discord&no-frame=true&column=4&margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=likhith562&theme=tokyonight&no-frame=true&column=4&row=1&margin-w=8" />
 </div>
 
 ---
