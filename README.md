@@ -92,10 +92,10 @@
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### [🚗 Agentic Vehicle Damage Intelligence](https://github.com/likhith562/SmartForge-Agentic-Vehicle-Damage-Intelligence-Platform)
-*Enterprise-grade autonomous insurance claims pipeline*
+*Enterprise-grade autonomous insurance claims pipeline — built solo*
 
 ```
 Stack: LangGraph · YOLOv8 · SAM · MiDaS · Gemini VLM · FastAPI · MongoDB · NetworkX · Gradio
@@ -115,7 +115,9 @@ Stack: LangGraph · YOLOv8 · SAM · MiDaS · Gemini VLM · FastAPI · MongoDB �
 
 Built an AI-driven platform automating SDLC phases — bug prediction, code review, documentation, and optimization using IBM Granite. Integrated code quality analysis and automated reporting, improving agile delivery efficiency by ~30%.
 
-```Stack: IBM Granite · Python · AI Automation```
+```
+Stack: IBM Granite · Python · AI Automation
+```
 
 ---
 
@@ -146,11 +148,11 @@ Built an AI-driven platform automating SDLC phases — bug prediction, code revi
 
 <div align="center">
 
-<img src="https://github-readme-stats-nu-ochre-24.vercel.app/api?username=likhith562&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="165"/>
-<img src="https://streak-stats.demolab.com?user=likhith562&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" height="165"/>
+<img src="https://github-readme-stats-nu-ochre-24.vercel.app/api?username=likhith562&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&count_private=true" height="165"/><img src="https://streak-stats.demolab.com?user=likhith562&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" height="165"/>
+
 <br/>
 
-<img src="https://github-readme-stats-nu-ochre-24.vercel.app/api/top-langs/?username=likhith562&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="155"/>
+<img src="https://github-readme-stats-nu-ochre-24.vercel.app/api/top-langs/?username=likhith562&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" height="155"/>
 
 </div>
 
