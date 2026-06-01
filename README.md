@@ -147,7 +147,6 @@ Built an AI-driven platform automating SDLC phases — bug prediction, code revi
 <div align="center">
 
 <img src="https://github-readme-stats-nu-ochre-24.vercel.app/api?username=likhith562&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="165"/>
-
 <img src="https://streak-stats.demolab.com?user=likhith562&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" height="165"/>
 <br/>
 
