@@ -1,50 +1,155 @@
-# Hi there, I'm Dasari Likhith! 👋 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<div align="center">
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Computer+Science+Student;AI+%26+Computer+Vision+Developer;C%2B%2B+Competitive+Programmer" alt="Typing SVG" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:0d1117&height=200&section=header&text=Dasari%20Likhith&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Applied%20AI%20Builder%20%7C%20CS%20Undergrad%20%7C%20Shipping%20Systems%20with%20AI&descAlignY=58&descSize=16&animation=fadeIn" />
 
-## 👨‍💻 About Me
-- 🎓 Computer Science & Engineering student at Gayatri Vidya Parishad College of Engineering (A).
-- 🧠 Specializing in **Agentic AI systems, computer vision (YOLO), and real-time pipelines**.
-- 🏆 2nd Runner-Up at the InnovateX: IBM Hackathon for building *SmartSDLC*.
-- 💡 Actively solving problems on Codeforces and LeetCode using C++.
-- 🏋️‍♂️ Fun fact: I balance debugging complex LangGraph orchestrations with a strict push/pull gym routine.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=600&lines=Building+Agentic+AI+Pipelines+%F0%9F%A4%96;Computer+Vision+%7C+LangGraph+%7C+LLMs;I+learn+by+building%2C+not+by+watching;AI+is+my+second+brain+%F0%9F%A7%A0" alt="Typing SVG" />
+</a>
 
-## 🛠️ Tech Stack
+<br/>
 
-### Languages
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dasari-likhith)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dasarilikhith0@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/dasarilikhith0/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/likhith_coder)
+[![Profile Views](https://komarev.com/ghpvc/?username=likhith562&style=flat-square&color=00d4ff&label=Profile+Views)](https://github.com/likhith562)
 
-### AI & Frameworks
-![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=python) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
-
-### Cloud & Tools
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+</div>
 
 ---
 
-## 📊 GitHub Stats & Trophies
+## ⚡ About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
-</p>
+```yaml
+name       : Dasari Likhith
+location   : Visakhapatnam, Andhra Pradesh 🇮🇳
+education  : B.Tech CSE @ GVP College of Engineering (A) | 2022–2026
+role       : Applied AI Builder — Independent
+approach   : I don't master tools. I architect systems, use AI as a co-pilot, and ship.
+currently  : Multi-agent pipelines · Computer Vision · System Design (LLD → HLD)
+fun_fact   : Debugging LangGraph at midnight + gym every morning. Non-negotiable.
+```
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&column=6&no-frame=true" alt="Trophies" />
-</p>
+---
 
-## 🌐 Let's Connect
+## 🏆 Highlights
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://leetcode.com/u/YOUR-LEETCODE-USERNAME/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"></a>
-  <a href="https://codeforces.com/profile/YOUR-CODEFORCES-USERNAME"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"></a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg" alt="Profile Views" />
-</p>
+| 🥉 | **2nd Runner-Up** — InnovateX: IBM Hackathon 2025 (50+ teams) — *SmartSDLC* |
+|---|---|
+| 🤖 | Built end-to-end **Agentic Vehicle Damage AI** — LangGraph + YOLOv8 + Gemini VLM |
+| 🎯 | Competed in **Hero Campus Challenge** & **Poonawalla Fincorp** Hackathons |
+| ☁️ | **AWS Cloud Internship** — AICTE Eduskills Cohort 8 |
+| 🌐 | **Web Full Stack Internship** — EduSkills Academy Cohort 12 |
+
+</div>
+
+---
+
+## 🚗 Flagship Project — Agentic Vehicle Damage Intelligence
+
+> *Enterprise-grade autonomous insurance claims pipeline — built solo*
+
+<table>
+<tr>
+<td width="50%">
+
+**🧠 Orchestration Layer**
+- LangGraph Directed Cyclic Graph (DCG)
+- Multi-agent GenAI workflows
+- Human-in-the-loop interrupts
+- Circuit breakers + fault tolerance
+
+**🔍 Perception Engine**
+- YOLOv8 + SAM + MiDaS fusion via SAHI
+- Gemini 2.5 Flash as forensic gatekeeper
+- High-res crop pipeline to eliminate false positives
+
+</td>
+<td width="50%">
+
+**🛡️ Anti-Fraud System**
+- 5-layer security gate: EXIF GPS, Temporal, ELA, pHash
+- NetworkX Map-Reduce for damage deduplication
+
+**📦 Full Stack**
+- Dual Gradio portals (Claimant / Auditor)
+- MongoDB + SQLite state persistence
+- Groq-powered AI report generation
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**AI · Vision · Agents**
+
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=python&logoColor=00d4ff)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFAB?style=for-the-badge&logo=github&logoColor=black)
+![Gemini](https://img.shields.io/badge/Gemini_VLM-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![IBM Granite](https://img.shields.io/badge/IBM_Granite-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+
+**Backend · Infra · Tools**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=likhith562&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&count_private=true&include_all_commits=true" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=likhith562&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhith562&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" height="150"/>
+
+</div>
+
+---
+
+## 🏅 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=likhith562&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=likhith562&theme=tokyo-night&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:0d1117&height=100&section=footer&animation=fadeIn"/>
+
+*"I don't just use AI — I build systems with it."*
+
+</div>
