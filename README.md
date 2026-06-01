@@ -116,7 +116,6 @@ Stack: LangGraph · YOLOv8 · SAM · MiDaS · Gemini VLM · FastAPI · MongoDB �
 Built an AI-driven platform automating SDLC phases — bug prediction, code review, documentation, and optimization using IBM Granite. Integrated code quality analysis and automated reporting, improving agile delivery efficiency by ~30%.
 
 ```Stack: IBM Granite · Python · AI Automation```
-```
 
 So the full Featured Project section ends up looking like:
 ---
