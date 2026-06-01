@@ -152,7 +152,7 @@ Stack: IBM Granite · Python · AI Automation
 
 <br/>
 
-<img src="https://github-readme-stats-nu-ochre-24.vercel.app/api/top-langs/?username=likhith562&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" height="155"/>
+<img src="https://github-readme-stats-nu-ochre-24.vercel.app/api/top-langs/?username=likhith562&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8&cache_seconds=1800" height="155"/>
 
 </div>
 
